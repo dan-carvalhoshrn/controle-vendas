@@ -24,4 +24,5 @@ header {
 .logo-container p {
     font-size: 14px;
     font-weight: 300;
+    text-decoration:underline;
 }
